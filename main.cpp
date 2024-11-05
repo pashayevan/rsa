@@ -81,7 +81,7 @@ int main() {
         mpz_class n, e, d;
         generateKeys(n, e, d);
         std::string word;
-        std::cout<<"Hello,kojaniy meshok!Write cvoy ebaniy soobshenie\n";
+        std::cout<<"Vvod\n";
         getline(std::cin,word);
         std::cout<<"n:"<<n<<"\n";
         std::cout<<"e:"<<e<<"\n";
