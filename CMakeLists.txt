@@ -3,4 +3,4 @@ project(rsa)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(rsa main.cpp Rsa.h)
+add_executable(rsa main.cpp)
